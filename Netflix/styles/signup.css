@@ -1,0 +1,179 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: gray;
+}
+
+.navbar {
+  display: flex;
+  padding: 30px;
+}
+
+.nf-logo {
+  width: 8.375rem;
+  height: 2.25rem;
+  fill: red;
+  /* padding: 30px; */
+}
+
+.main-container {
+  background: url('../images/movie-img.jpg');
+}
+
+.nav-btn {
+  margin-left: auto;
+}
+
+.lang-btn {
+  background-color: black;
+  color: white;
+  padding: 7px 17px;
+  border: 1px solid #aaa;
+  font-size: .875rem;
+}
+.signin-btn{
+  background-color: red;
+  color: white;
+  padding: 7px 17px;
+  border-radius: 3px;
+  border: none;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-content {
+  position: relative;
+    width: 100%;
+    padding: 75px 0;
+    max-width: 950px;
+    margin: 0 auto;
+    text-align: center;
+    z-index: 1;
+    color: white;
+}
+
+#text-title {
+  font-size: 4.990rem;
+  /* padding-top: 20px; */
+}
+
+input[type="email"] {
+  padding: 13px;
+  width: 40%;
+  margin-left: 10px;
+}
+
+.start-btn {
+  padding: 13px;
+  width: 20%;
+  background-color: red;
+  color: white;
+}
+
+
+.tv-container {
+  background: black;
+  color: white;
+  padding: 70px 45px;
+  display: flex;
+}
+
+.tv-text-container {
+  margin-top: 15%;
+  font-size: 20px;
+}
+
+
+
+.mobile-container {
+  background: black;
+  color: white;
+  padding: 70px 45px;
+  display: flex;
+}
+
+.mob-txt {
+  margin-top: 15%;
+  font-size: 20px;
+}
+
+.desk-container {
+  background: black;
+  color: white;
+  display: flex;
+  padding: 70px 45px;
+}
+
+.desk-text-container {
+  margin-top: 15%;
+  font-size: 20px;
+}
+
+
+.kids-container {
+  background: black;
+  color: white;
+  display: flex;
+  padding: 70px 45px;
+
+}
+
+.kids-txt-container {
+  margin-top: 15%;
+  font-size: 20px;
+}
+
+.faq-container {
+  background: black;
+  color: white;
+  padding: 10px;
+}
+
+.faq-title,h1 {
+  text-align: center;
+}
+
+.footer-main {
+  padding: 30px 0;
+  background-color: black;
+  color: grey;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.foot {
+  margin: 0 179px;
+}
+
+.foot1 {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 20px;
+  font-size: 13px;
+}
+
+li {
+  padding: 0;
+  margin-bottom: 16px;
+  display: inline-block;
+  min-width: 100px;
+  width: 20%;
+  padding-right: 12px;
+  padding: 0;
+}
+
+#cars {
+  padding: 15px;
+  background: black;
+  color: grey;
+}
+
+p {
+  margin: 0 179px;
+}
+
+
+
